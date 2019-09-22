@@ -8,6 +8,8 @@ public class Encrypt {
 		
 		Scanner in = new Scanner(System.in);
 		
+		System.out.println("Enter a number");
+		
 		int num = 0;
 		num = in.nextInt();
 		
